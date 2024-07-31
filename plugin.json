@@ -1,0 +1,46 @@
+{
+  "name": "siyuan-plugin-add-quotationmask",
+  "author": "Vanessa",
+  "url": "https://github.com/Achuan-2/siyuan-plugin-add-quotationmask",
+  "version": "0.0.1",
+  "minAppVersion": "3.0.12",
+  "backends": [
+    "windows",
+    "linux",
+    "darwin",
+    "ios",
+    "android",
+    "docker"
+  ],
+  "frontends": [
+    "desktop",
+    "mobile",
+    "browser-desktop",
+    "browser-mobile",
+    "desktop-window"
+  ],
+  "displayName": {
+    "default": "添加/取消引号",
+    "zh_CN": "添加/取消引号"
+  },
+  "description": {
+    "default": "This is a plugin sample",
+    "zh_CN": "选中文本可添加双引号或取消引号（中英文双引号、中文直角引号）"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      "https://ld246.com/sponsor"
+    ]
+  },
+  "keywords": [
+    "sample",
+    "示例"
+  ]
+}
